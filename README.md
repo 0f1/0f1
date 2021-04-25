@@ -21,3 +21,7 @@
 
 > ## **Note**
 ### Currently i work on private projects, which is why you don't see any repositories.
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/129819918609809408.png">
+</p>
