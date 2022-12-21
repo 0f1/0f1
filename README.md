@@ -14,13 +14,14 @@
 ![Lua](https://img.shields.io/badge/-Lua-E3E3E3?style=flat&logo=lua&logoColor=000000)
 ![C](https://img.shields.io/badge/-C-E3E3E3?style=flat&logo=c&logoColor=000000)
 ![C++](https://img.shields.io/badge/-C++-E3E3E3?style=flat&logo=c%2B%2B&logoColor=000000)
+![Rust](https://img.shields.io/badge/-Rust-E3E3E3?style=flat&logo=Rust&logoColor=000000)
 ![C#](https://img.shields.io/badge/-C%23-E3E3E3?style=flat&logo=c-sharp&logoColor=000000)
 ![Bash](https://img.shields.io/badge/-Bash-E3E3E3?style=flat&logo=gnu-bash&logoColor=000000)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-E3E3E3?style=flat&logo=powershell&logoColor=000000)
 
 
 > ## **Note**
-### Currently i work on private projects, which is why you don't see any repositories.
+### I currently work on private projects, which is why you don't see any repositories.
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/129819918609809408.png">
