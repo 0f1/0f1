@@ -5,7 +5,6 @@
 > ## **My Skills**
 
 
-![Markdown](https://img.shields.io/badge/-Markdown-E3E3E3?style=flat&logo=markdown&logoColor=000000)
 ![HTML](https://img.shields.io/badge/-HTML-E3E3E3?style=flat&logo=HTML5&logoColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS-E3E3E3?style=flat&logo=CSS3&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E3E3E3?style=flat&logo=javascript&logoColor=000000)
@@ -16,8 +15,6 @@
 ![C++](https://img.shields.io/badge/-C++-E3E3E3?style=flat&logo=c%2B%2B&logoColor=000000)
 ![Rust](https://img.shields.io/badge/-Rust-E3E3E3?style=flat&logo=Rust&logoColor=000000)
 ![C#](https://img.shields.io/badge/-C%23-E3E3E3?style=flat&logo=c-sharp&logoColor=000000)
-![Bash](https://img.shields.io/badge/-Bash-E3E3E3?style=flat&logo=gnu-bash&logoColor=000000)
-![PowerShell](https://img.shields.io/badge/-PowerShell-E3E3E3?style=flat&logo=powershell&logoColor=000000)
 
 
 > ## **Note**
